@@ -1,4 +1,4 @@
 # o
 
-Created in 3012 Mobile IDE.
+Created in Mobile IDE.
 # huy-mod-projet-1
